@@ -1,0 +1,22 @@
+{
+  "name": "zombiechallengegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zombiegame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaveAGneissDay/ZombieChallengeGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaveAGneissDay/ZombieChallengeGame/issues"
+  },
+  "homepage": "https://github.com/HaveAGneissDay/ZombieChallengeGame#readme",
+  "dependencies": {
+    "inquirer": "^5.0.1"
+  }
+}
